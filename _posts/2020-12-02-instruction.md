@@ -50,8 +50,9 @@ You can start editing the file `<year>-<month>-<date>-<title>.md` and check the 
 
 ### Submission
 
-After you finish editing the post, you can submit a [pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request). 
-Make sure to submit the pull request to `robostats-wiki` instead of the template of the website `al-folio`.
+After you finish editing the post, you should commit your changes and push the changes on the master branch to your github repository.
+After that, you can submit a [pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request). 
+Make sure to submit the pull request to the `master` branch of the base repository `r-pad/robostats-wiki` instead of the other repositories.
 One of the TAs will process your pull request and publish your blog post on the website.
 
 ## Useful templates
