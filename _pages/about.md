@@ -2,23 +2,39 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: 
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+This is a wiki for [16-831: Statistical Techniques in Robotics](https://sites.google.com/view/16-831-cmu/home).
+You may select from one of the following topics covered in class to create a blog post. Check out [Getting Started](blog/2020/instruction/) for instructions.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+#### Online Learning and Optimization
+- Greedy, Halving, Randomized Greedy
+- Weighted Majority, Randomized Weighted Majority
+- Convex Optimization, Online Convex Optimization
+- Follow the Leader, Follow the Regularized Leader
+- Perceptron, SVM, Bagging, Boosting
+
+#### Multi-armed bandits
+- Introduction to Multi-Armed Bandits
+- UCB
+- EXP3/EXP4, Thompson sampling
+
+#### Reinforcement Learning, Imitation Learning
+- Policy gradients
+- Q-function based methods
+- Off-policy RL
+- Model-based RL
+- iLQR
+- Control under uncertainty - LQG, iLQG, PILCO
+- Inverse Reinforcment Learning
+- Imitation learning
+
+#### Other Topics
+- Robot Ethics
+- Deep Generative Models: Variational Autoencoders, Generative Adversarial Networks
