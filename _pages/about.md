@@ -35,7 +35,8 @@ You may select from one of the following topics covered in class to create a blo
 - iLQR
 - Control under uncertainty: LQG, iLQG, PILCO
 
-### Learning from Demonstration	IRL
+### Learning from Demonstration	
+- IRL
 - Imitation learning
 
 ### Generative models	
